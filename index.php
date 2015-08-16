@@ -1,2 +1,4 @@
 <?php
-echo "hello git";
+echo "line 2";
+echo "line 3";
+echo "line 4";
